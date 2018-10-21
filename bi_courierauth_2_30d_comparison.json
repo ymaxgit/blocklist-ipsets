@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 7073,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot-pop3imap_0_1d",
+		"category": "attacks",
+		"ips": 160,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot-pop3imap_2_30d",
+		"category": "attacks",
+		"ips": 1221,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 7123,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 1933,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 3344,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31596,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 2249,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 25256,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 24576,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39891,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 55527,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 18001,
+		"common": 1
+	}
+]

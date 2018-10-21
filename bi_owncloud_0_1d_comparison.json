@@ -1,0 +1,62 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 61615,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 13400,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 8893,
+		"common": 1
+	},
+	{
+		"name": "bi_telnet_0_1d",
+		"category": "attacks",
+		"ips": 57,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 494,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsversion",
+		"category": "attacks",
+		"ips": 400,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 12673,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 54335,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 1
+	}
+]

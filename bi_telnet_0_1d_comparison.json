@@ -1,0 +1,194 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 66283,
+		"common": 27
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 84
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 7073,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 5904,
+		"common": 84
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 10189,
+		"common": 2
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 22504,
+		"common": 1
+	},
+	{
+		"name": "bi_telnet_1_7d",
+		"category": "attacks",
+		"ips": 20,
+		"common": 2
+	},
+	{
+		"name": "bi_telnet_2_30d",
+		"category": "attacks",
+		"ips": 33,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 27
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 498,
+		"common": 1
+	},
+	{
+		"name": "dataplane_vncrfb",
+		"category": "attacks",
+		"ips": 1295,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 648788,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 55527,
+		"common": 27
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 637081,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 22
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114811,
+		"common": 3
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 620761,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 5233,
+		"common": 3
+	},
+	{
+		"name": "normshield_all_bruteforce",
+		"category": "attacks",
+		"ips": 3163,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 5216,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_bruteforce",
+		"category": "attacks",
+		"ips": 3149,
+		"common": 3
+	},
+	{
+		"name": "socks_proxy_30d",
+		"category": "anonymizers",
+		"ips": 63872,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 9
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 13782,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 18001,
+		"common": 2
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 56361,
+		"common": 1
+	}
+]

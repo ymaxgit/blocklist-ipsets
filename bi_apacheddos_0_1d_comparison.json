@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 14618,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 16918,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31644,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 15699,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 139,
+		"common": 1
+	},
+	{
+		"name": "bi_cms_1_7d",
+		"category": "attacks",
+		"ips": 1143,
+		"common": 1
+	},
+	{
+		"name": "bi_cms_2_30d",
+		"category": "attacks",
+		"ips": 1761,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 463,
+		"common": 1
+	},
+	{
+		"name": "bi_http_1_7d",
+		"category": "attacks",
+		"ips": 1195,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 1921,
+		"common": 1
+	},
+	{
+		"name": "bi_wordpress_1_7d",
+		"category": "attacks",
+		"ips": 1080,
+		"common": 1
+	},
+	{
+		"name": "bi_wordpress_2_30d",
+		"category": "attacks",
+		"ips": 1565,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 169004,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 195062,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 331404,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34673823,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	}
+]

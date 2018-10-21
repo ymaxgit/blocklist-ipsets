@@ -1,0 +1,152 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 6351,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_2_30d",
+		"category": "attacks",
+		"ips": 144,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot_1_7d",
+		"category": "attacks",
+		"ips": 54,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot_2_30d",
+		"category": "attacks",
+		"ips": 271,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 1915,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 1933,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 3344,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh-ddos_2_30d",
+		"category": "attacks",
+		"ips": 311,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 22504,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_2_30d",
+		"category": "attacks",
+		"ips": 12960,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_2d",
+		"category": "attacks",
+		"ips": 71293,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 87551,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_7d",
+		"category": "attacks",
+		"ips": 77098,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 15628,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_recent",
+		"category": "attacks",
+		"ips": 64076,
+		"common": 1
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 753762,
+		"common": 1
+	},
+	{
+		"name": "dronebl_ddos_drones",
+		"category": "attacks",
+		"ips": 845671,
+		"common": 1
+	},
+	{
+		"name": "dronebl_irc_drones",
+		"category": "abuse",
+		"ips": 231136,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34673848,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114811,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	}
+]

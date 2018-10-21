@@ -1,0 +1,134 @@
+[
+	{
+		"name": "blueliv_crimeserver_last_1d",
+		"category": "attacks",
+		"ips": 58312,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_2d",
+		"category": "attacks",
+		"ips": 71293,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 87551,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_7d",
+		"category": "attacks",
+		"ips": 77098,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_recent",
+		"category": "attacks",
+		"ips": 64076,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 2240
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 328761,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9378177,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34673848,
+		"common": 64
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 38456,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1112
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 754571416,
+		"common": 69528
+	},
+	{
+		"name": "iblocklist_org_blizzard",
+		"category": "organizations",
+		"ips": 16795139,
+		"common": 1104
+	},
+	{
+		"name": "iblocklist_org_nintendo",
+		"category": "organizations",
+		"ips": 3927,
+		"common": 2048
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 11695,
+		"common": 2
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 64
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 7
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 196337,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 328592,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 432592,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 197330,
+		"common": 1
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 11695,
+		"common": 2
+	}
+]

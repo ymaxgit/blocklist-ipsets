@@ -1,0 +1,98 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 66283,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 2
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 7073,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 2
+	},
+	{
+		"name": "bi_asterisk_2_30d",
+		"category": "attacks",
+		"ips": 61,
+		"common": 1
+	},
+	{
+		"name": "bi_sip_0_1d",
+		"category": "attacks",
+		"ips": 15,
+		"common": 2
+	},
+	{
+		"name": "bi_sip_2_30d",
+		"category": "attacks",
+		"ips": 10,
+		"common": 2
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 100,
+		"common": 2
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 44,
+		"common": 4
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 66,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sipinvitation",
+		"category": "attacks",
+		"ips": 34,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 35,
+		"common": 1
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1097027,
+		"common": 2
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 56361,
+		"common": 3
+	}
+]

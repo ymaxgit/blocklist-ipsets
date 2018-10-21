@@ -1,0 +1,128 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 3
+	},
+	{
+		"name": "bi_assp_0_1d",
+		"category": "attacks",
+		"ips": 12,
+		"common": 3
+	},
+	{
+		"name": "bi_badbots_0_1d",
+		"category": "attacks",
+		"ips": 8552,
+		"common": 3
+	},
+	{
+		"name": "bi_bruteforce_0_1d",
+		"category": "attacks",
+		"ips": 8585,
+		"common": 3
+	},
+	{
+		"name": "bi_dovecot_0_1d",
+		"category": "attacks",
+		"ips": 3331,
+		"common": 3
+	},
+	{
+		"name": "bi_exim_0_1d",
+		"category": "attacks",
+		"ips": 12,
+		"common": 3
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 7123,
+		"common": 3
+	},
+	{
+		"name": "bi_plesk-postfix_0_1d",
+		"category": "attacks",
+		"ips": 16,
+		"common": 3
+	},
+	{
+		"name": "bi_postfix-sasl_0_1d",
+		"category": "attacks",
+		"ips": 636,
+		"common": 3
+	},
+	{
+		"name": "bi_postfix_0_1d",
+		"category": "attacks",
+		"ips": 2987,
+		"common": 3
+	},
+	{
+		"name": "bi_sasl_0_1d",
+		"category": "attacks",
+		"ips": 236,
+		"common": 3
+	},
+	{
+		"name": "bi_spam_0_1d",
+		"category": "attacks",
+		"ips": 686,
+		"common": 3
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 5904,
+		"common": 3
+	},
+	{
+		"name": "bi_unknown_0_1d",
+		"category": "attacks",
+		"ips": 167,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31596,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 2249,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 25256,
+		"common": 3
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39891,
+		"common": 3
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2572,
+		"common": 3
+	},
+	{
+		"name": "normshield_all_spam",
+		"category": "spam",
+		"ips": 133,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_spam",
+		"category": "spam",
+		"ips": 133,
+		"common": 1
+	}
+]

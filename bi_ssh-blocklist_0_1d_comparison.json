@@ -1,0 +1,68 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 5904,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 4186,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31596,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 4542,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 7245,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39891,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227994620,
+		"common": 1
+	},
+	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 182,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 13782,
+		"common": 1
+	}
+]

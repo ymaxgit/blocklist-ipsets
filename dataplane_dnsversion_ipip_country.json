@@ -1,0 +1,54 @@
+[
+	{
+		"code": "BACKBONE",
+		"value": 1
+	},
+	{
+		"code": "CA",
+		"value": 6
+	},
+	{
+		"code": "CN",
+		"value": 29
+	},
+	{
+		"code": "ES",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 6
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 2
+	},
+	{
+		"code": "IS",
+		"value": 2
+	},
+	{
+		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 60
+	},
+	{
+		"code": "US",
+		"value": 163
+	},
+	{
+		"code": "VN",
+		"value": 2
+	}
+]

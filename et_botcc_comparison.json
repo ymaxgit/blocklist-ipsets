@@ -1,0 +1,86 @@
+[
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 124,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 41
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34673848,
+		"common": 22
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1097027,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_badpeers",
+		"category": "reputation",
+		"ips": 1569289,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 754571416,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114811,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137270015,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4280758,
+		"common": 8
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 22
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 13782,
+		"common": 62
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 56361,
+		"common": 1
+	}
+]

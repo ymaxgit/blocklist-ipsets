@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 203,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1703,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "reputation",
+		"ips": 846788,
+		"common": 1
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 477,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 633583115,
+		"common": 1
+	}
+]

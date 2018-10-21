@@ -1,0 +1,62 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 2
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 7073,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 1
+	},
+	{
+		"name": "bi_dns_0_1d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 2
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 389,
+		"common": 2
+	},
+	{
+		"name": "dataplane_dnsrdany",
+		"category": "attacks",
+		"ips": 20,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137270015,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 18001,
+		"common": 1
+	}
+]

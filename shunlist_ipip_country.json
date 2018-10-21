@@ -1,0 +1,210 @@
+[
+	{
+		"code": "AU",
+		"value": 2
+	},
+	{
+		"code": "BA",
+		"value": 1
+	},
+	{
+		"code": "BG",
+		"value": 11
+	},
+	{
+		"code": "BR",
+		"value": 2
+	},
+	{
+		"code": "CA",
+		"value": 4
+	},
+	{
+		"code": "CL",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 141
+	},
+	{
+		"code": "CO",
+		"value": 2
+	},
+	{
+		"code": "CR",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 16
+	},
+	{
+		"code": "EG",
+		"value": 5
+	},
+	{
+		"code": "ES",
+		"value": 2
+	},
+	{
+		"code": "FR",
+		"value": 16
+	},
+	{
+		"code": "GB",
+		"value": 8
+	},
+	{
+		"code": "GE",
+		"value": 1
+	},
+	{
+		"code": "GR",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 5
+	},
+	{
+		"code": "HU",
+		"value": 1
+	},
+	{
+		"code": "ID",
+		"value": 6
+	},
+	{
+		"code": "IE",
+		"value": 1
+	},
+	{
+		"code": "IL",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 9
+	},
+	{
+		"code": "IR",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 18
+	},
+	{
+		"code": "JP",
+		"value": 5
+	},
+	{
+		"code": "KR",
+		"value": 10
+	},
+	{
+		"code": "LT",
+		"value": 3
+	},
+	{
+		"code": "LV",
+		"value": 1
+	},
+	{
+		"code": "MD",
+		"value": 2
+	},
+	{
+		"code": "ML",
+		"value": 1
+	},
+	{
+		"code": "MX",
+		"value": 2
+	},
+	{
+		"code": "MY",
+		"value": 2
+	},
+	{
+		"code": "NG",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 42
+	},
+	{
+		"code": "NO",
+		"value": 1
+	},
+	{
+		"code": "PH",
+		"value": 5
+	},
+	{
+		"code": "PK",
+		"value": 1
+	},
+	{
+		"code": "PL",
+		"value": 7
+	},
+	{
+		"code": "RO",
+		"value": 4
+	},
+	{
+		"code": "RS",
+		"value": 11
+	},
+	{
+		"code": "RU",
+		"value": 7
+	},
+	{
+		"code": "SE",
+		"value": 1
+	},
+	{
+		"code": "SG",
+		"value": 8
+	},
+	{
+		"code": "TG",
+		"value": 1
+	},
+	{
+		"code": "TH",
+		"value": 3
+	},
+	{
+		"code": "TR",
+		"value": 7
+	},
+	{
+		"code": "TW",
+		"value": 7
+	},
+	{
+		"code": "UA",
+		"value": 4
+	},
+	{
+		"code": "US",
+		"value": 95
+	},
+	{
+		"code": "UY",
+		"value": 7
+	},
+	{
+		"code": "VN",
+		"value": 5
+	}
+]

@@ -1,0 +1,164 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 22414,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18983,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 7073,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 31661,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 16212,
+		"common": 2
+	},
+	{
+		"name": "bi_badbots_0_1d",
+		"category": "attacks",
+		"ips": 8552,
+		"common": 1
+	},
+	{
+		"name": "bi_badbots_1_7d",
+		"category": "attacks",
+		"ips": 7966,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_0_1d",
+		"category": "attacks",
+		"ips": 8585,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_1_7d",
+		"category": "attacks",
+		"ips": 7982,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 7123,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 1933,
+		"common": 2
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 3344,
+		"common": 2
+	},
+	{
+		"name": "bi_postfix-sasl_0_1d",
+		"category": "attacks",
+		"ips": 636,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix-sasl_1_7d",
+		"category": "attacks",
+		"ips": 1139,
+		"common": 2
+	},
+	{
+		"name": "bi_postfix-sasl_2_30d",
+		"category": "attacks",
+		"ips": 900,
+		"common": 2
+	},
+	{
+		"name": "bi_postfix_2_30d",
+		"category": "attacks",
+		"ips": 720,
+		"common": 2
+	},
+	{
+		"name": "bi_sasl_1_7d",
+		"category": "attacks",
+		"ips": 96,
+		"common": 2
+	},
+	{
+		"name": "bi_sasl_2_30d",
+		"category": "attacks",
+		"ips": 161,
+		"common": 2
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 22504,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31596,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 2249,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 25256,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86696653,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 24576,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39891,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 55527,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 18001,
+		"common": 1
+	}
+]

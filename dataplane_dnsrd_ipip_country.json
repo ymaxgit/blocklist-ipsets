@@ -1,0 +1,90 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 1
+	},
+	{
+		"code": "BACKBONE",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 13
+	},
+	{
+		"code": "CA",
+		"value": 6
+	},
+	{
+		"code": "CN",
+		"value": 41
+	},
+	{
+		"code": "DE",
+		"value": 1
+	},
+	{
+		"code": "ES",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 3
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "GR",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 3
+	},
+	{
+		"code": "IS",
+		"value": 2
+	},
+	{
+		"code": "IT",
+		"value": 2
+	},
+	{
+		"code": "JP",
+		"value": 3
+	},
+	{
+		"code": "LT",
+		"value": 1
+	},
+	{
+		"code": "MY",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 61
+	},
+	{
+		"code": "RO",
+		"value": 2
+	},
+	{
+		"code": "RU",
+		"value": 1
+	},
+	{
+		"code": "SG",
+		"value": 1
+	},
+	{
+		"code": "US",
+		"value": 241
+	},
+	{
+		"code": "VN",
+		"value": 2
+	}
+]
